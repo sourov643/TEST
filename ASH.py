@@ -1,1 +1,1 @@
-inport Okk
+import okk
