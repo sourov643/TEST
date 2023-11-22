@@ -1,3 +1,1 @@
-import os
-import okk
-okk.loging()
+Import okk
