@@ -1,1 +1,1 @@
-Import okk
+import Tips
